@@ -1,0 +1,39 @@
+.body{
+    background: black;
+}
+
+#boton1 {
+    color: rgb(255, 255, 255); /* Texto transparente */
+    background: rgba(0, 0, 0, 0); /* Fondo transparente */
+}
+#boton2 {
+    color: rgb(255, 255, 255); /* Texto transparente */
+    background: rgba(0, 0, 0, 0); /* Fondo transparente */
+}
+#boton3 {
+    color: rgb(255, 255, 255); /* Texto transparente */
+    background: rgba(0, 0, 0, 0); /* Fondo transparente */
+}
+#boton4 {
+    color: rgb(255, 255, 255); /* Texto transparente */
+    background: rgba(0, 0, 0, 0); /* Fondo transparente */
+}
+.Imagen1{
+    text-align: center; 
+    padding-top: 10mm;
+    padding-bottom: 10mm;
+}
+
+#frase{
+    color: rgba(220, 20, 60, 0.418);
+    text-align: center;
+}
+.inreg{
+    text-align: center;
+    padding-bottom: 10mm;
+    padding-top: 10mm;
+}
+.irinic{
+    text-align: left;
+    
+}
